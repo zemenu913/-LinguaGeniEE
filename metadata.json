@@ -1,0 +1,5 @@
+{
+  "name": " LinguaGenie",
+  "description": "A language learning application, similar to Duolingo, that uses AI to generate lessons and challenges. Users can select a language and learn step-by-step with image-associated questions.",
+  "requestFramePermissions": []
+}
